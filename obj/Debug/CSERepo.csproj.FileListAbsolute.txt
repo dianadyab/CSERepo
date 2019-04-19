@@ -1,0 +1,12 @@
+C:\Users\Bisan Co\Desktop\final web project\CSERepo\CSERepo\bin\CSERepo.dll.config
+C:\Users\Bisan Co\Desktop\final web project\CSERepo\CSERepo\bin\CSERepo.dll
+C:\Users\Bisan Co\Desktop\final web project\CSERepo\CSERepo\bin\CSERepo.pdb
+C:\Users\Bisan Co\Desktop\final web project\CSERepo\CSERepo\obj\Debug\CSERepo.csprojResolveAssemblyReference.cache
+C:\Users\Bisan Co\Desktop\final web project\CSERepo\CSERepo\obj\Debug\CSERepo.dll
+C:\Users\Bisan Co\Desktop\final web project\CSERepo\CSERepo\obj\Debug\CSERepo.pdb
+D:\1st semester\web programming\CSERepo\CSERepo\bin\CSERepo.dll.config
+D:\1st semester\web programming\CSERepo\CSERepo\bin\CSERepo.dll
+D:\1st semester\web programming\CSERepo\CSERepo\bin\CSERepo.pdb
+D:\1st semester\web programming\CSERepo\CSERepo\obj\Debug\CSERepo.csprojResolveAssemblyReference.cache
+D:\1st semester\web programming\CSERepo\CSERepo\obj\Debug\CSERepo.dll
+D:\1st semester\web programming\CSERepo\CSERepo\obj\Debug\CSERepo.pdb
